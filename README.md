@@ -179,7 +179,7 @@ Dashboards, Alerts, and Predictive Insights
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Volcandrabuzz/Vibra-Sense-Motionizer
+   git clone https://github.com/Volcandrabuzz/VibeSight
    ```
 2. CD into Magnification_Server:
 
@@ -208,7 +208,7 @@ Dashboards, Alerts, and Predictive Insights
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Volcandrabuzz/Vibra-Sense-Motionizer
+   git clone https://github.com/Volcandrabuzz/VibeSight
    ```
 
 2. CD into Frontend:
@@ -234,7 +234,7 @@ Dashboards, Alerts, and Predictive Insights
 ---
 
 ## 📸 Demo
-🎥 Prototype Video: [Watch Here](https://youtu.be/Ni9JRBwZUow)
+🎥 Prototype Video: [Watch Here](https://www.youtube.com/watch?v=zws8nMG0JOo)
 
 ---
 
